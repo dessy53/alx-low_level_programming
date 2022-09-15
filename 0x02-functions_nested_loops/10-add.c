@@ -3,8 +3,7 @@
 /**
  * add - Adds two integars.
  * @num1: The first integar to be added.
- * @num2: The second integar to be added.
- * 
+ * @num2: The second integar to be added. 
  * Return: the result of the addition.
  */
 int add(int num1, int num2)
